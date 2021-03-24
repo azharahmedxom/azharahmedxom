@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azhar
+- 👋 Hi, I’m @Azhar
 
 
 <!---
